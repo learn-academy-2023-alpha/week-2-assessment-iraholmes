@@ -36,6 +36,8 @@ Your answer: The constant running of a function by the terminal based on paramet
 
 Researched answer: Iteration is the protocol that runs the code to the next operator to return a value or true / false response.
 
+Updated Answer from Gene (Added to notes for future reference): Iteration is performing something on each element in a collection. For example, with .map we can multiply the values in an array by a number. Going into each element is the iteration.
+
 1. What is the difference between a function and a method?
 
 Your answer: A function is code that performs an action to determine a given value. a method holds the property of an object that is read by the function.
